@@ -1,0 +1,10 @@
+========== STRUK BELANJA ==========
+Nama Barang        Jumlah    Harga     Total
+---------------------------------------------
+Sabun Biore    1         24000     24000
+Sari Gandum    4         2000      8000
+---------------------------------------------
+Total Harga : Rp 32000
+Uang Dibayar: Rp 35000
+Kembalian   : Rp 3000
+=============================================
